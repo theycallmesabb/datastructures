@@ -11,9 +11,7 @@ public:
         }
         int fs=0;
         fs = n-rev;
-        if(fs<0){
-            return fs*(-1);
-        }
-        return fs;
+    
+        return abs(fs);
     }
 };
