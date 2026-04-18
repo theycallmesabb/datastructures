@@ -20,4 +20,8 @@ Learning Data Structures and algorithm
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/theycallmesabb/datastructures/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/theycallmesabb/datastructures/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [3783-mirror-distance-of-an-integer](https://github.com/theycallmesabb/datastructures/tree/master/3783-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
