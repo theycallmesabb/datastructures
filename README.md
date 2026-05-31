@@ -8,6 +8,7 @@ Learning Data Structures and algorithm
 | [0033-search-in-rotated-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/theycallmesabb/datastructures/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/theycallmesabb/datastructures/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/theycallmesabb/datastructures/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/theycallmesabb/datastructures/tree/master/0162-find-peak-element) |
@@ -42,4 +43,12 @@ Learning Data Structures and algorithm
 | ------- |
 | [0069-sqrtx](https://github.com/theycallmesabb/datastructures/tree/master/0069-sqrtx) |
 | [3783-mirror-distance-of-an-integer](https://github.com/theycallmesabb/datastructures/tree/master/3783-mirror-distance-of-an-integer) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/theycallmesabb/datastructures/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/theycallmesabb/datastructures/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
