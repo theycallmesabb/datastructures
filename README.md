@@ -82,4 +82,8 @@ Learning Data Structures and algorithm
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/theycallmesabb/datastructures/tree/master/0912-sort-an-array) |
+## String
+|  |
+| ------- |
+| [2315-count-asterisks](https://github.com/theycallmesabb/datastructures/tree/master/2315-count-asterisks) |
 <!---LeetCode Topics End-->
