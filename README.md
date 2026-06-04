@@ -44,6 +44,7 @@ Learning Data Structures and algorithm
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/theycallmesabb/datastructures/tree/master/0069-sqrtx) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/theycallmesabb/datastructures/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/theycallmesabb/datastructures/tree/master/3783-mirror-distance-of-an-integer) |
 ## Backtracking
 |  |
@@ -86,4 +87,12 @@ Learning Data Structures and algorithm
 |  |
 | ------- |
 | [2315-count-asterisks](https://github.com/theycallmesabb/datastructures/tree/master/2315-count-asterisks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/theycallmesabb/datastructures/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/theycallmesabb/datastructures/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
