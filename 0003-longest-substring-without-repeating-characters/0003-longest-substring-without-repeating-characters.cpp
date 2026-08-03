@@ -15,7 +15,7 @@ public:
             mp.insert(s[high]);
               len = high - low +1;
 
-         ans = max(ans, high - low + 1);
+         ans = max(ans, len);
 
         }
        
