@@ -87,6 +87,7 @@ Learning Data Structures and algorithm
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/theycallmesabb/datastructures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2315-count-asterisks](https://github.com/theycallmesabb/datastructures/tree/master/2315-count-asterisks) |
 ## Dynamic Programming
 |  |
@@ -99,9 +100,11 @@ Learning Data Structures and algorithm
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/theycallmesabb/datastructures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/theycallmesabb/datastructures/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/theycallmesabb/datastructures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/theycallmesabb/datastructures/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
