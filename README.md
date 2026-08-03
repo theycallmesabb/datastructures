@@ -16,6 +16,7 @@ Learning Data Structures and algorithm
 | [0540-single-element-in-a-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/theycallmesabb/datastructures/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/theycallmesabb/datastructures/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/theycallmesabb/datastructures/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/theycallmesabb/datastructures/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/theycallmesabb/datastructures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/theycallmesabb/datastructures/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -95,4 +96,12 @@ Learning Data Structures and algorithm
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/theycallmesabb/datastructures/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/theycallmesabb/datastructures/tree/master/0904-fruit-into-baskets) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/theycallmesabb/datastructures/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
