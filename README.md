@@ -13,6 +13,7 @@ Learning Data Structures and algorithm
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/theycallmesabb/datastructures/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/theycallmesabb/datastructures/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/theycallmesabb/datastructures/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/theycallmesabb/datastructures/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/theycallmesabb/datastructures/tree/master/0875-koko-eating-bananas) |
@@ -34,6 +35,7 @@ Learning Data Structures and algorithm
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/theycallmesabb/datastructures/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/theycallmesabb/datastructures/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/theycallmesabb/datastructures/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/theycallmesabb/datastructures/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/theycallmesabb/datastructures/tree/master/0875-koko-eating-bananas) |
@@ -110,11 +112,13 @@ Learning Data Structures and algorithm
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/theycallmesabb/datastructures/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/theycallmesabb/datastructures/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/theycallmesabb/datastructures/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/theycallmesabb/datastructures/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/theycallmesabb/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/theycallmesabb/datastructures/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/theycallmesabb/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
