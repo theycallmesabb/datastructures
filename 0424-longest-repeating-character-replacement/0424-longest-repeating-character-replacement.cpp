@@ -11,7 +11,7 @@ int find(vector<int> &a)
     int characterReplacement(string s, int k) {
         int n=s.size();
         vector<int> f(256,0);
-        int low = 0, high = 0;
+        int low = 0;
         int res = INT_MIN;
         for(int high=0;high<n;high++){
             f[s[high]]++;
@@ -23,7 +23,6 @@ int find(vector<int> &a)
            {
                f[s[low]]--;
                low++;
-               maxcnt=find(f);
                len=high-low+1;
                diff=len-maxcnt;
            }
