@@ -18,6 +18,7 @@ Learning Data Structures and algorithm
 | [0875-koko-eating-bananas](https://github.com/theycallmesabb/datastructures/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/theycallmesabb/datastructures/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/theycallmesabb/datastructures/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/theycallmesabb/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/theycallmesabb/datastructures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/theycallmesabb/datastructures/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/theycallmesabb/datastructures/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -36,6 +37,7 @@ Learning Data Structures and algorithm
 | [0540-single-element-in-a-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/theycallmesabb/datastructures/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/theycallmesabb/datastructures/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/theycallmesabb/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/theycallmesabb/datastructures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/theycallmesabb/datastructures/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/theycallmesabb/datastructures/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -110,4 +112,9 @@ Learning Data Structures and algorithm
 | [0003-longest-substring-without-repeating-characters](https://github.com/theycallmesabb/datastructures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/theycallmesabb/datastructures/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/theycallmesabb/datastructures/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/theycallmesabb/datastructures/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/theycallmesabb/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
