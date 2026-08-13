@@ -14,6 +14,7 @@ Learning Data Structures and algorithm
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/theycallmesabb/datastructures/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/theycallmesabb/datastructures/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/theycallmesabb/datastructures/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/theycallmesabb/datastructures/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/theycallmesabb/datastructures/tree/master/0875-koko-eating-bananas) |
@@ -36,6 +37,7 @@ Learning Data Structures and algorithm
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/theycallmesabb/datastructures/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/theycallmesabb/datastructures/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/theycallmesabb/datastructures/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/theycallmesabb/datastructures/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/theycallmesabb/datastructures/tree/master/0875-koko-eating-bananas) |
@@ -60,6 +62,7 @@ Learning Data Structures and algorithm
 |  |
 | ------- |
 | [0078-subsets](https://github.com/theycallmesabb/datastructures/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/theycallmesabb/datastructures/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,10 +137,16 @@ Learning Data Structures and algorithm
 | ------- |
 | [0141-linked-list-cycle](https://github.com/theycallmesabb/datastructures/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/theycallmesabb/datastructures/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/theycallmesabb/datastructures/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/theycallmesabb/datastructures/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/theycallmesabb/datastructures/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/theycallmesabb/datastructures/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/theycallmesabb/datastructures/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/theycallmesabb/datastructures/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
