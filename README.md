@@ -12,6 +12,7 @@ Learning Data Structures and algorithm
 | [0053-maximum-subarray](https://github.com/theycallmesabb/datastructures/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/theycallmesabb/datastructures/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/theycallmesabb/datastructures/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/theycallmesabb/datastructures/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/theycallmesabb/datastructures/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/theycallmesabb/datastructures/tree/master/0209-minimum-size-subarray-sum) |
@@ -104,6 +105,7 @@ Learning Data Structures and algorithm
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/theycallmesabb/datastructures/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/theycallmesabb/datastructures/tree/master/0152-maximum-product-subarray) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/theycallmesabb/datastructures/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
