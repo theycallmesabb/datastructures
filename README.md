@@ -9,6 +9,7 @@ Learning Data Structures and algorithm
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/theycallmesabb/datastructures/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/theycallmesabb/datastructures/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/theycallmesabb/datastructures/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/theycallmesabb/datastructures/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/theycallmesabb/datastructures/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theycallmesabb/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -67,6 +68,7 @@ Learning Data Structures and algorithm
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/theycallmesabb/datastructures/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/theycallmesabb/datastructures/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -101,6 +103,7 @@ Learning Data Structures and algorithm
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/theycallmesabb/datastructures/tree/master/0053-maximum-subarray) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/theycallmesabb/datastructures/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
