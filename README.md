@@ -24,6 +24,7 @@ Learning Data Structures and algorithm
 | [0912-sort-an-array](https://github.com/theycallmesabb/datastructures/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/theycallmesabb/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/theycallmesabb/datastructures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/theycallmesabb/datastructures/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/theycallmesabb/datastructures/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/theycallmesabb/datastructures/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/theycallmesabb/datastructures/tree/master/1539-kth-missing-positive-number) |
@@ -107,6 +108,7 @@ Learning Data Structures and algorithm
 | ------- |
 | [0053-maximum-subarray](https://github.com/theycallmesabb/datastructures/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/theycallmesabb/datastructures/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/theycallmesabb/datastructures/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/theycallmesabb/datastructures/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/theycallmesabb/datastructures/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
