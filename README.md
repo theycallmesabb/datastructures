@@ -30,6 +30,7 @@ Learning Data Structures and algorithm
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/theycallmesabb/datastructures/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/theycallmesabb/datastructures/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/theycallmesabb/datastructures/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/theycallmesabb/datastructures/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/theycallmesabb/datastructures/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ Learning Data Structures and algorithm
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/theycallmesabb/datastructures/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/theycallmesabb/datastructures/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/theycallmesabb/datastructures/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/theycallmesabb/datastructures/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/theycallmesabb/datastructures/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Math
 |  |
@@ -78,6 +80,7 @@ Learning Data Structures and algorithm
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/theycallmesabb/datastructures/tree/master/0912-sort-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/theycallmesabb/datastructures/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
