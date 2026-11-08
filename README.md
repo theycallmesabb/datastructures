@@ -10,6 +10,7 @@ Learning Data Structures and algorithm
 | [0035-search-insert-position](https://github.com/theycallmesabb/datastructures/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/theycallmesabb/datastructures/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/theycallmesabb/datastructures/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/theycallmesabb/datastructures/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/theycallmesabb/datastructures/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/theycallmesabb/datastructures/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/theycallmesabb/datastructures/tree/master/0152-maximum-product-subarray) |
@@ -79,6 +80,7 @@ Learning Data Structures and algorithm
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/theycallmesabb/datastructures/tree/master/0056-merge-intervals) |
 | [0912-sort-an-array](https://github.com/theycallmesabb/datastructures/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/theycallmesabb/datastructures/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
@@ -167,4 +169,8 @@ Learning Data Structures and algorithm
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/theycallmesabb/datastructures/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/theycallmesabb/datastructures/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
